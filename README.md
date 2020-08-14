@@ -1,4 +1,4 @@
-# CNN_Image_Classifiers
+# CNN Image Classifiers
 This Repository consists of my custom CNN Classifiers notebooks
 
 ## CIFAR10 Classifier
