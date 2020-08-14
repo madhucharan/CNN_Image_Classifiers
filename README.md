@@ -5,8 +5,11 @@ This Repository consists of my custom CNN Classifiers notebooks
 Using CNN Classified CIFAR10 dataset
 
 ## MNIST CLassifier
-**Achieved an Accuracy of 95% with 
-1.less than 20,000 parameters
-2.Using dropout
-3.Training using less than 20 epochs
-5.Reached 99% in less than 10 epochs
+
+Achieved an Accuracy of 99.5% with
+<ul>
+  <li>less than 20,000 parameters</li>
+  <li>Training using less than 20 epochs</li>
+  <li>Reached 99% in less than 10 epochs</li>
+  <li>Without using a Fully connected Layer</li>  
+</ul>
